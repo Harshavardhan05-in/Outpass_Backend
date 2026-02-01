@@ -1,0 +1,21 @@
+
+
+# Ignore node_modules directory
+node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore .env file
+env
+
+# Ignore macOS system files
+DS_Store
+
+# Ignore compiled code
+*.o
+*.pyc
+*.class
+
+# Ignore personal IDE config files
+idea/
