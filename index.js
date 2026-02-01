@@ -13,7 +13,7 @@ const auth = require('./middleware/auth')
 require('./db/conne')
 
 const corOption = {
-    origin:"http://localhost:5173",
+    origin:"https://outpass-frontend-1adm.onrender.com",
     methods:"POST,PUT,PATCH,GET,HEAD,DELETE",
     credentials:true
 }
